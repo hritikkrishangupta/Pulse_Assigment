@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body >
+    <header class="bg-gray-700 p-8 flex justify-center items-center">
+        <h1 class=" w-3xl text-center text-5xl text-white bg-gray-600 p-4 mt-6 mb-6 align-middle" >Review Scraper</h1>
+    </header>
+    
+    <div class="h-full w-full flex flex-row items-center justify-center">           
+        <div class="form w-full h-full  flex flex-col items-center justify-center gap-4 bg-amber-100 border-3 p-15" >            
+            <form action="/api/data" method="POST" id="dataform" class="flex flex-col gap-2 w-full max-w-xs bg-white  p-4 border-2 rounded-lg shadow-md">
+                <div class="flex flex-col gap-2 border p-2 rounded-lg">
+                    <label for="companyname" class="w-full">Company name:</label>
+                    <input type="text" id="name" name="companyname" placeholder="Company Name" required>
+                </div>
+                <div class="flex flex-col gap-2 border p-2 rounded-lg">
+                    <label for="startdate">Start date:</label>
+                    <input type="date" id="startdate" name="startdate" required>
+                </div>
+                <div class="flex flex-col gap-2 border p-2 rounded-lg">
+                    <label for="enddate">End date:</label>
+                    <input type="date" id="enddate" name="enddate"required>
+                </div>
+                <div class="flex flex-col gap-2 border p-2 rounded-lg">
+                    <label for="source">Source:</label>
+                    <input type="url" id="source" name="source" placeholder="https://www.g2.com/products/jira/reviews" required>
+                </div>         
+                <button type="submit"class="bg-blue-400 w-full p-3 ">Submit</button>
+            </form>
+        </div>
+        
+        <!-- <div class= "w-full h-100%  gap-4 mt-15 bg-amber-100 border-3">
+            <h1 class= "text-4xl text-gary text-center p-3 m-9">JSON Files</h1>
+            
+            <% for (let i = 0; i <= 5; i++) { %>
+                <p class="text-3xl text-gary text-center p-2">Json File <%= i %></p>
+              <% } %> 
+            <br/>      
+        </div> -->
+    </div>
+
+    <footer class="bg-gray-700 p-8">
+        <p class="text-center text-white text-2xl ">© 2025 Pulse Assignment</p>            
+    </footer>
+
+</body>
+</html>

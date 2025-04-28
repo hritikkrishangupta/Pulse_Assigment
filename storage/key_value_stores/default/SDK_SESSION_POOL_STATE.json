@@ -1,0 +1,294 @@
+{
+  "usableSessionsCount": 8,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_FQrzw3KQsF",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-28T21:37:16.571Z",
+      "createdAt": "2025-04-28T20:47:16.571Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2o43lh4mLq",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-28T21:37:25.478Z",
+      "createdAt": "2025-04-28T20:47:25.478Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_jBzLiYbw8P",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-28T21:37:25.870Z",
+      "createdAt": "2025-04-28T20:47:25.870Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_meTtp3NmmW",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-28T21:37:32.562Z",
+      "createdAt": "2025-04-28T20:47:32.562Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ENk5LWfTrq",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-28T21:37:33.098Z",
+      "createdAt": "2025-04-28T20:47:33.098Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_EGNIHGjEMB",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-28T21:37:41.924Z",
+      "createdAt": "2025-04-28T20:47:41.924Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_e55C4VwIMh",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-28T21:37:42.300Z",
+      "createdAt": "2025-04-28T20:47:42.300Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_XyxUqGkjP5",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "_sylar_key",
+            "value": "SFMyNTY.g3QAAAACbQAAAAtfY3NyZl90b2tlbm0AAAAYN1JIQmN5bUNRZUphY3lmaDR2RWpraFUxbQAAAAxsYW5kaW5nX3BhZ2VtAAAAMmh0dHBzOi8vd3d3LmNhcHRlcnJhLmluL3Jldmlld3MvMTQ5MjUzL2tla2E_cGFnZT00.c9l2MFd0RjoLL1WVd4q4zdkI3rZGfgveSRHGBEEsu_E",
+            "expires": "2025-04-28T21:37:45.430Z",
+            "domain": "www.capterra.in",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-04-28T20:47:45.430Z",
+            "lastAccessed": "2025-04-28T20:47:45.430Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "1n9kb0jWvMYV2mFJf2PIx.RBTvrZTMkuUYdp8MouIVg-1745873264-1.0.1.1-cCxE5f6nqRVZk_u5IU133nspFfoiAv_sxDXOSXQkQ.lIWCwQErIi7E8.moz1_qoVocTnQ.vbZVrMShEyfi0rYkttUtqQkQYXrPc76k5Jdow",
+            "expires": "2025-04-28T21:17:43.211Z",
+            "domain": "capterra.in",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-04-28T20:47:45.430Z",
+            "lastAccessed": "2025-04-28T20:47:45.430Z"
+          },
+          {
+            "key": "_dd_s",
+            "value": "aid=a5be3401-709a-4874-8065-7ea7640a89cd&rum=0&expire=1745874163400",
+            "expires": "2025-04-28T21:02:43.000Z",
+            "domain": "www.capterra.in",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2025-04-28T20:47:45.430Z",
+            "lastAccessed": "2025-04-28T20:47:45.430Z"
+          },
+          {
+            "key": "_gcl_au",
+            "value": "1.1.1890277984.1745873264",
+            "expires": "2025-07-27T20:47:44.000Z",
+            "domain": "capterra.in",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-28T20:47:45.431Z",
+            "lastAccessed": "2025-04-28T20:47:45.431Z"
+          },
+          {
+            "key": "cf_clearance",
+            "value": "kxjySbI.Ro6gKUCt.s1vh0bXel05zyi6HnmalRiVnD4-1745873265-1.2.1.1-y3iyw2RmY7LPiIh2apaZiS.KjjsY5bHOYKy0uLyLUWZOsb0519Ada3X0ZrA1tFFQOcnLJ1rx8b_dfJDbxx0vPlEgU8SNPL.u2sV3I2wllN4TVcdJg76GmxX9Hxn4H8noEbzoLNBgms.i33TcqhlZMhupGTwDajfHnBnHHpouXXfZ9k8E.24UjGV5Hunxj8vJFjDbUM__oNOvXRcHlIgTuLCni.pOqki3yoQVsETFdJ64Y1pCH9NF99Qd95ZPj5XXUx6Wvrk2ud0qkRC8H3Xg.GBxf81hFGgzrx1T8.IgtnyiArwVoemja.e_x15RKH4xtiqqvpcB9buGWk3McwN1xL10CTumH.ol5TE2CuW2m6o",
+            "expires": "2026-04-28T20:47:44.063Z",
+            "domain": "capterra.in",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-04-28T20:47:45.431Z",
+            "lastAccessed": "2025-04-28T20:47:45.431Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.980882610.1745873264",
+            "expires": "2026-06-02T20:47:44.431Z",
+            "domain": "capterra.in",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-28T20:47:45.431Z",
+            "lastAccessed": "2025-04-28T20:47:45.431Z"
+          },
+          {
+            "key": "AMCVS_04D07E1C5E4DDABB0A495ED1%40AdobeOrg",
+            "value": "1",
+            "expires": "2025-04-28T21:37:45.430Z",
+            "domain": "capterra.in",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-28T20:47:45.431Z",
+            "lastAccessed": "2025-04-28T20:47:45.431Z"
+          },
+          {
+            "key": "_ga_0WNG69R0Z3",
+            "value": "GS1.1.1745873264.1.1.1745873264.0.0.0",
+            "expires": "2026-06-02T20:47:44.688Z",
+            "domain": "capterra.in",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-28T20:47:45.431Z",
+            "lastAccessed": "2025-04-28T20:47:45.431Z"
+          },
+          {
+            "key": "_uetsid",
+            "value": "092de160247211f093515f7497d3e694",
+            "expires": "2025-04-29T20:47:44.000Z",
+            "domain": "capterra.in",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-28T20:47:45.431Z",
+            "lastAccessed": "2025-04-28T20:47:45.431Z"
+          },
+          {
+            "key": "_uetvid",
+            "value": "092decd0247211f0857c890be15e329a",
+            "expires": "2026-05-23T20:47:44.000Z",
+            "domain": "capterra.in",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-28T20:47:45.431Z",
+            "lastAccessed": "2025-04-28T20:47:45.431Z"
+          },
+          {
+            "key": "AMCV_04D07E1C5E4DDABB0A495ED1%40AdobeOrg",
+            "value": "-637568504%7CMCIDTS%7C20207%7CMCMID%7C90670854438652192282654465730559894439%7CMCAAMLH-1746478064%7C12%7CMCAAMB-1746478064%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1745880464s%7CNONE%7CMCSYNCSOP%7C411-20214%7CvVersion%7C5.1.1",
+            "expires": "2026-06-02T20:47:44.898Z",
+            "domain": "capterra.in",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-28T20:47:45.431Z",
+            "lastAccessed": "2025-04-28T20:47:45.431Z"
+          },
+          {
+            "key": "_clck",
+            "value": "1yyrdc2%7C2%7Cfvg%7C0%7C1944",
+            "expires": "2026-04-28T20:47:45.000Z",
+            "domain": "capterra.in",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-28T20:47:45.431Z",
+            "lastAccessed": "2025-04-28T20:47:45.431Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-28T21:37:42.303Z",
+      "createdAt": "2025-04-28T20:47:42.303Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "requestsFinished": 4,
+  "requestsFailed": 0,
+  "requestsRetries": 3,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 8,
+  "requestMinDurationMillis": 3260,
+  "requestMaxDurationMillis": 8827,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 27493,
+  "crawlerStartedAt": "2025-04-28T20:47:16.306Z",
+  "crawlerFinishedAt": "2025-04-28T20:47:45.744Z",
+  "statsPersistedAt": "2025-04-28T20:47:45.744Z",
+  "crawlerRuntimeMillis": 30104,
+  "crawlerLastStartTimestamp": 1745873235640,
+  "requestRetryHistogram": [
+    1,
+    3
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 6873,
+  "requestTotalDurationMillis": 27493,
+  "requestsTotal": 4,
+  "requestsWithStatusCode": {
+    "200": 4,
+    "403": 3
+  },
+  "errors": {},
+  "retryErrors": {
+    "C:\\Users\\HP\\Desktop\\g2-scraper\\node_modules\\@crawlee\\basic\\internals\\basic-crawler.js:777:19": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 403 status code.": {
+            "count": 3
+          }
+        }
+      }
+    }
+  }
+}
