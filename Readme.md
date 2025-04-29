@@ -36,6 +36,8 @@ It scrapes data from websites, processes it, and saves the output into a JSON fi
 
    npm install
 
+   npx playwright install
+
 ## Usage
 
     npm start
