@@ -12,7 +12,7 @@ router.post('/data', (req, res) => {
   const minDate = '2019-01-01'; // Minimum start date (Jan 1st, 2019)
 
   // Define valid source URLs
-  const validSources = ['https://www.g2.com', 'https://www.capterra.in'];
+  const validSources = ['https://www.capterra.in'];
 
   // Validation
   if (!companyname || !startdate || !enddate || !source) {
