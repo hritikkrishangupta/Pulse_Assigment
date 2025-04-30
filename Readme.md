@@ -24,6 +24,7 @@ It scrapes data from websites, processes it, and saves the output into a JSON fi
 - Express.js
 - EJS
 - Chrono-node
+- cheerio
 
 ## Installation
 
@@ -77,7 +78,7 @@ It scrapes data from websites, processes it, and saves the output into a JSON fi
 
 ## API Endpoint
 
-POST /api/data - Fetch processed data from webpage that we created using ejs.
+-POST /api/data - Fetch processed data from webpage that we created using ejs.
 
 ## Example Output (JSON)
 Example content inside storage/companyname.json
